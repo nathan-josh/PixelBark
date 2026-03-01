@@ -43,6 +43,11 @@ if place_meeting(x,y,oSpikes)
 	room_restart()
 }
 
+if place_meeting(x,y,oSap)
+{
+	room_restart()
+}
+
 
 
 
