@@ -1,5 +1,5 @@
-text = "Test Test Test"
+text = "The Ant's Name is Ari"
 boxWidth = sprite_get_width(sBox);
-string Height = string_height(text);
+stringHeight = string_height(text);
 
   
